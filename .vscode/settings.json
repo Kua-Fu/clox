@@ -1,0 +1,9 @@
+{
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "/Users/yz/work/github/clox/bin",
+            "binaryPath": "/Users/yz/work/github/clox/bin/clox",
+            "binaryArgs": []
+        }
+    ]
+}
